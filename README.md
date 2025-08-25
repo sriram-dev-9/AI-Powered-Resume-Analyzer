@@ -158,26 +158,3 @@ We welcome contributions! Please feel free to submit a Pull Request. For major c
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- React Router team for the excellent routing solution
-- Tailwind CSS for the utility-first CSS framework
-- Puter for cloud storage and authentication services
-- PDF.js for client-side PDF processing
-- Vercel for seamless deployment
-
-## 📞 Contact
-
-For questions, feedback, or support, please reach out through:
-- GitHub Issues
-- Live Demo: [https://ai-resumize.vercel.app/](https://ai-resumize.vercel.app/)
-
----
-
-**Made with ❤️ for job seekers everywhere**
-
-*AI Resumize - Smart feedback for your dream job!*
